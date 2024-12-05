@@ -2,6 +2,14 @@
 #include <iomanip>
 #include "graph.h"
 
+/*
+Graph Program
+CMSC-3140-001
+Analysis of Algorithms
+Graph Program
+Luke Vukovich, Jonathan Buckel, Seth Morgan
+*/
+
 int main() {
     // Constants
     int numVertices = 10;
