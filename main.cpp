@@ -3,7 +3,6 @@
 #include "graph.h"
 
 /*
-Graph Program
 CMSC-3140-001
 Analysis of Algorithms
 Graph Program
